@@ -1,0 +1,29 @@
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  div {
+    padding: 30px;
+    border: 1px solid rgb(83, 76, 175);
+  
+  p.text {
+    font-style: italic;
+    background: yellow;
+    }
+
+ol li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+header,
+main,
+footer {
+	background-color: #ddd;
+	font-size: 1.6em;
+}
+
+
+  
